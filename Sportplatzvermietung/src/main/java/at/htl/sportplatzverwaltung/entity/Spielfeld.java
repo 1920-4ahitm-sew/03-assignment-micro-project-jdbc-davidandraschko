@@ -8,32 +8,31 @@ public class Spielfeld {
 
     @Id@GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long SpielfeldId;
-    private int hoehe;
+    private int laenge;
     private int breite;
 
-    public Spielfeld(int hoehe, int breite) {
-        this.hoehe = hoehe;
-        this.breite = breite;
+    public Spielfeld(int laenge, int breite) {
+        this.setLaenge(laenge);
+        this.setBreite(breite);
     }
 
     public Spielfeld(){
 
     }
 
+
     public Long getSpielfeldId() {
         return SpielfeldId;
     }
 
-    /*public void setSpielfeldId(Long spielfeldId) {
-        SpielfeldId = spielfeldId;
-    }*/
 
-    public int getHoehe() {
-        return hoehe;
+
+    public int getLaenge() {
+        return laenge;
     }
 
-    public void setHoehe(int hoehe) {
-        this.hoehe = hoehe;
+    public void setLaenge(int laenge) {
+        this.laenge = laenge;
     }
 
     public int getBreite() {
