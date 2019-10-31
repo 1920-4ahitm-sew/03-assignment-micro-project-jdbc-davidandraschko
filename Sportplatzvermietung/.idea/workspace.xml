@@ -6,14 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="252dae4f-ac57-41c8-abbb-107c5613d83e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SportplatzvermietungEE/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SportplatzvermietungEE/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SportplatzvermietungEE/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SportplatzvermietungEE/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SportplatzvermietungEE/SportplatzvermietungEE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SportplatzvermietungEE/pom.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="252dae4f-ac57-41c8-abbb-107c5613d83e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +185,7 @@
       <updated>1571933747530</updated>
       <workItem from="1571933748850" duration="3462000" />
       <workItem from="1571983744303" duration="465000" />
-      <workItem from="1572514096823" duration="1349000" />
+      <workItem from="1572514096823" duration="1636000" />
     </task>
     <servers />
   </component>
