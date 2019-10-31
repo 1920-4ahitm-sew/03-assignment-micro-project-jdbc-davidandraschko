@@ -1,11 +1,9 @@
 package at.htl.sportplatzverwaltung.entity;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
+@NamedQueries(@NamedQuery(name = "GetAll", query = "select s from Spielfeld s"))
 public class Spielfeld {
 
     @Id@GeneratedValue(strategy = GenerationType.IDENTITY)

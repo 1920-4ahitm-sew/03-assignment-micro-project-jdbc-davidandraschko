@@ -1,1 +1,14 @@
 Fri Oct 25 08:10:31 CEST 2019 : Apache Derby Network Server 10.14.2.0 - (1828579) wurde gestartet und ist bereit, Verbindungen auf Port 1527 zu akzeptieren.
+----------------------------------------------------------------
+Fri Oct 25 08:10:56 CEST 2019:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): Instanz a816c00e-016e-0189-b1e8-00000f583d30
+für Datenbankverzeichnis C:\Users\David Andraschko\Desktop\4Ahitm\Sew\03-assignment-micro-project-jdbc-davidandraschko\Sportplatzvermietung\db\db mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@2cdf8d8a
+Geladen aus file:/C:/opt/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.4+11
+user.dir=C:\Users\David Andraschko\Desktop\4Ahitm\Sew\03-assignment-micro-project-jdbc-davidandraschko\Sportplatzvermietung\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
