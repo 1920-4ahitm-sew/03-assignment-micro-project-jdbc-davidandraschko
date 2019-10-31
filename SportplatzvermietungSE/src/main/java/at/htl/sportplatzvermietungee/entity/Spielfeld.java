@@ -2,10 +2,11 @@ package at.htl.sportplatzvermietungee.entity;
 
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 @Entity
-@NamedQueries(@NamedQuery(name = "GetAll", query = "select s from Spielfeld s where s.id=?1"))
-public class Spielfeld {
+@NamedQueries(@NamedQuery(name = "GetAll", query = "select s from Spielfeld s where s.SpielfeldId = ?1"))
+public class Spielfeld implements Serializable {
 
     @Id@GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long SpielfeldId;

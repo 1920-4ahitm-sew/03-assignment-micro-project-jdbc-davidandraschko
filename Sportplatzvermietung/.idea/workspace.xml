@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="252dae4f-ac57-41c8-abbb-107c5613d83e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SportplatzvermietungSE/src/main/java/at/htl/sportplatzvermietungee/entity/Spielfeld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SportplatzvermietungSE/src/main/java/at/htl/sportplatzvermietungee/entity/Spielfeld.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -169,7 +170,12 @@
     <option name="allServicesViewState">
       <serviceView>
         <treeState>
-          <expand />
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@635f80d" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
           <select />
         </treeState>
       </serviceView>
@@ -187,7 +193,7 @@
       <updated>1571933747530</updated>
       <workItem from="1571933748850" duration="3462000" />
       <workItem from="1571983744303" duration="465000" />
-      <workItem from="1572514096823" duration="1890000" />
+      <workItem from="1572514096823" duration="3086000" />
     </task>
     <servers />
   </component>
